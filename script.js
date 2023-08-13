@@ -60,6 +60,7 @@ function changeLanguage() {
     eigthp.textContent = data.Russian.eigthp;
   } else {
     lang.src = "imgs/russia.png";
+    lang1.src = "imgs/russia.png";
     contact.textContent = data.hebrew.contact;
     call.textContent = data.hebrew.call;
     get.textContent = data.hebrew.get;
